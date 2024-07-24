@@ -56,7 +56,7 @@ int main()
 
 	double rezult_led = rezult.second ;
 
-	//Speed_time_to_travel(a ,b , rezult.first, rezult.second); //a,b данные от пользователя
+	Speed_time_to_travel(a ,b , rezult.first, rezult.second); //a,b данные от пользователя
 
 	return 0;
 }
