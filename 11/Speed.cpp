@@ -41,10 +41,6 @@ int Speed_time_to_travel(int class_sydna, int speed_water, double distanse, doub
 	return time;
 }
 
-//nomer_ledokola
-// 0 -50лет победы бямал
-//  1 Войгач, Таймыр
-
 int Speed_ledocol(int nomer_ledokola, int speed_water, double distanse, double rezult_led)
 {
 	if (nomer_ledokola == 0)
